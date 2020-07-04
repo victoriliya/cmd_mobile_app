@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CMD</string>
+    <string name="about_cmd">The Centre for Management Development (CMD) is a resource
+        institution established in 1973 by the Federal Government of Nigeria as the operational
+        arm of the Nigerian Council for Management Development (NCMD), which has over-all responsibility
+        for the stimulation, promotion and training in the public and private enterprises of
+        the Nigerian economy. Though established in 1973, it was Decree 51 of October 4, 1976
+        that gave both the Council and the Centre their legal status.
+
+        \n   \t \t In 2004, the Centre’s mandate was enlarged when the Federal Executive
+        Council in-line with the Federal Government’s reform policy approved the merger
+        of CMD and the National Centre for Economic Management and Administration (NCEMA),
+        Ibadan. Through the merger, CMD assumed the additional responsibility to strengthen
+        the skills of public officers involved in economic planning, budgeting, project
+        design, implementation and monitoring as well as economic policy formulation and implementation.
+
+       </string>
+</resources>
